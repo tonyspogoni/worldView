@@ -1,0 +1,30 @@
+{
+  "nodes": [
+    {"atom": "BYU-I", "size": 50},
+    {"atom": "Microsoft", "size": 20},
+    {"atom": "Starbucks", "size": 20},
+    {"atom": "Intel", "size": 20},
+    {"atom": "USU", "size": 50},
+    {"atom": "Microsoft", "size": 20},
+    {"atom": "Walmart", "size": 20},
+    {"atom": "HP", "size": 20},
+    {"atom": "Stanford", "size": 50},
+    {"atom": "Starbucks", "size": 20},
+    {"atom": "Walmart", "size": 20},
+    {"atom": "McDonalds", "size": 20},
+    {"atom": "Drug Dealing", "size": 20}
+  ],
+  "links": [
+    {"source": 0, "target": 1,  "bond": 1},
+    {"source": 0, "target": 2,  "bond": 1},
+    {"source": 0, "target": 3,  "bond": 1},
+    {"source": 4, "target": 5,  "bond": 1},
+    {"source": 4, "target": 6,  "bond": 1},
+    {"source": 4, "target": 7,  "bond": 1},
+    {"source": 8, "target": 10, "bond": 1},
+    {"source": 8, "target": 11, "bond": 1},
+    {"source": 8, "target": 9,  "bond": 1},
+    {"source": 8, "target": 12,  "bond": 1}
+  
+  ]
+}
